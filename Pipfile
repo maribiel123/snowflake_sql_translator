@@ -10,6 +10,7 @@ tqdm = "*"
 regex = "*"
 snowflake-connector-python = "*"
 awscli = "*"
+sqlparse = "*"
 
 [dev-packages]
 

@@ -1,0 +1,15 @@
+# configuration specific to creating Snowflake connections
+snowflake:
+  user: 'SNOWFLAKE_USER_NAME'
+  account: 'SNOWFLAKE_USER_ACCOUNT'
+  warehouse: 'SNOWFLAKE_WAREHOUSE'
+  database: 'SNOWFLAKE_DATABASE'
+
+
+# configuration to the sources SQL
+src_folder: 'C:\udh_git\pipeline-configurations'
+
+
+# configuration to the sources SQL
+trg_folder: 'C:\udh_migration\'
+
